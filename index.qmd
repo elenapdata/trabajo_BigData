@@ -11,7 +11,7 @@ about:
       url: "mailto:paboe@alumni.uv.es"            #- e-mail
     - icon: github
       text: Github
-      href: https://github.com/elenaap2         #- Github
+      href: https://github.com/elenapdata         #- Github
 ---
         
 Hola, soy Elena Paredes Borrachero.
@@ -24,4 +24,5 @@ La web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-23-24-
 Mi trabajo lleva por título: "Análisis general del speedrunning: Super Mario 64". El objetivo es realizar un recorrido general dentro de la temática de los videojuegos sobre el mundo del *speedrunning*, acotándolo a uno de sus juegos más populares: Super Mario 64, estrenado en el año 1996. 
 
 
-El trabajo puede verse [aquí](my_trabajo_BigData.html).
+
+El trabajo puede verse [aquí](https://elenapdata.github.io/trabajo_BigData/my_trabajo_BigData.html).
