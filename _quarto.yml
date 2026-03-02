@@ -3,7 +3,7 @@ project:
   output-dir: docs       
   
 website:
-  title: "Análisis general del speedrunning"            #- hay q cambiarlo
+  title: "Análisis general del speedrunning"            #- Title
   favicon: "images/star_favicon.png"    #- 
   search:   
     location: navbar
@@ -20,7 +20,7 @@ website:
       - text: "Trabajo individual"   #---
         href: my_trabajo_BigData.qmd   
       - icon: github
-        href: https://github.com/elenaap2    #- pon tu usuario Github
+        href: https://github.com/elenapdata    #- pon tu usuario Github
       - icon: envelope
         url: "mailto:paboe@alumni.uv.es"            #- pon tu e-mail
   page-footer:
@@ -30,7 +30,7 @@ website:
     center: "Hecho con [Quarto](https://quarto.org)"
     right:
       - icon: github
-        href: https://github.com/elenaap2     #- pon tu usuario Github
+        href: https://github.com/elenapdata     #- pon tu usuario Github
       - icon: envelope
         url: "mailto:paboe@alumni.uv.es"            #- pon tu e-mail
     
@@ -76,3 +76,4 @@ knitr:
     fig.show: "hold"
     R.options:
       options(scipen = 999) #- para quitar la notación científica  
+
